@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+
+}
+body{
+    background-color: blanchedalmond;
+}
+.paragrafo{
+    font-size: 1.5rem;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
